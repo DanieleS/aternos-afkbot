@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+  "ip": "kampaay_esports.aternos.me",
+  "port": "19717",
+  "name": "Event_Excellence"
 }
